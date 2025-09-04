@@ -26,4 +26,4 @@ See `results/` folder for presentation slides and plots.
 ## How to Run
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
-3. Open notebook: `crimeprediction.ipynb`
+3. Open notebook: `CrimePredictionNotebook.ipynb`
