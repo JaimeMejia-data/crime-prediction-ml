@@ -14,7 +14,7 @@ This project applies machine learning models to predict crime patterns based on 
 - Evaluation: Accuracy, Precision, Recall
 
 ## Results
-- Best model: Random Forest (~85% accuracy)
+- Best model: Random Forest (~88% accuracy)
 - Key insight:
   - Strongest balance between false positives and false negatives
   - Generalizes well
