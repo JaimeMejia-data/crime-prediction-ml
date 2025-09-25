@@ -21,7 +21,7 @@ This project applies machine learning models to predict crime patterns based on 
   - Consistent accuracy across various crime types, not just the most frequent ones
 
 ## Visualization
-See `results/` folder for presentation slides and plots.
+See `Crime in Chicago Predictive Modeling/` folder for presentation slides and plots.
 
 ## How to Run
 1. Clone the repo
